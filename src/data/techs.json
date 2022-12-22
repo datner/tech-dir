@@ -1,0 +1,175 @@
+[
+  {
+    "id": "astro",
+    "name": "Astro",
+    "description": " Pull content from anywhere and serve it fast with Astro's next-gen island architecture.",
+    "site": "https://astro.build/",
+    "github": "https://github.com/withastro/astro",
+    "tags": ["framework"]
+  },
+  {
+    "id": "daisyui",
+    "name": "daisyui",
+    "description": "The most popular, free and open-source Tailwind CSS component library",
+    "site": "https://daisyui.com",
+    "github": "https://github.com/saadeghi/daisyui",
+    "related": "tailwindcss",
+    "tags": ["css", "framework"]
+  },
+  {
+    "id": "tailwindcss",
+    "name": "tailwindcss",
+    "description": "Rapidly build modern websites without ever leaving your HTML.",
+    "site": "https://tailwindcss.com/",
+    "github": "https://github.com/tailwindlabs/tailwindcss",
+    "tags": ["css"]
+  },
+  {
+    "id": "heroicons",
+    "name": "heroicons",
+    "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+    "site": "https://heroicons.com/",
+    "github": "https://github.com/tailwindlabs/heroicons",
+    "related": "tailwindcss",
+    "tags": ["icons", "svg"]
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "description": "The workflow automation platform that doesn't box you in, that you never outgrow",
+    "site": "https://n8n.io/",
+    "github": "https://github.com/n8n-io/n8n",
+    "tags": ["automation", "saas"]
+  },
+  {
+    "id": "formbricks",
+    "name": "FormBricks",
+    "description": "The Open Source Form & Survey Toolbox",
+    "site": "https://formbricks.com/",
+    "github": "https://github.com/formbricks/formbricks",
+    "tags": ["form", "saas"]
+  },
+  {
+    "id": "boxyhq",
+    "name": "BoxyHQ",
+    "description": "Enterprise readiness for B2B SaaS, straight out of the box",
+    "site": "https://boxyhq.com/",
+    "github": "https://github.com/boxyhq",
+    "tags": ["b2b", "sso", "saas"]
+  },
+  {
+    "id": "mantine",
+    "name": "Mantine",
+    "description": "A fully featured React component library",
+    "site": "https://mantine.dev/",
+    "github": "https://github.com/mantinedev/mantine",
+    "tags": ["react", "hooks", "component library"]
+  },
+  {
+    "id": "cal",
+    "name": "Cal.com",
+    "description": "Scheduling infrastructure for everyone.",
+    "site": "https://cal.com/",
+    "github": "https://github.com/mantinedev/mantine",
+    "tags": ["react", "hooks", "component library"]
+  },
+  {
+    "id": "posthog",
+    "name": "PostHog",
+    "description": "The open source Product OS",
+    "site": "https://posthog.com/",
+    "github": "https://github.com/PostHog",
+    "tags": ["saas", "analytics", "product"]
+  },
+  {
+    "id": "zuplo",
+    "name": "Zuplo",
+    "description": "Zuplo is fully-managed API Management designed for developers. Add rate-limiting, authentication and more as fast as you can commit to git.",
+    "site": "https://zuplo.com/",
+    "github": "https://github.com/zuplo",
+    "tags": ["saas", "backend"]
+  },
+  {
+    "id": "vitest",
+    "name": "Vitest",
+    "description": "A Vite-native unit test framework. It's fast!",
+    "site": "https://vitest.dev/",
+    "github": "https://github.com/vitest-dev/vitest",
+    "related": "vite",
+    "tags": ["testing"]
+  },
+  {
+    "id": "vite",
+    "name": "Vite",
+    "description": "Get ready for a development environment that can finally catch up with you.",
+    "site": "https://vitejs.dev/",
+    "github": "https://github.com/vitejs/vite",
+    "tags": ["env"]
+  },
+  {
+    "id": "hookdeck",
+    "name": "hookdeck",
+    "description": "Receive webhooks reliably, even after server outages. Free features like automatic retries and rate limiting keep your system humming – while developer-friendly tooling and an intuitive dashboard keep the whole team happy.",
+    "site": "https://hookdeck.com/",
+    "github": "https://github.com/hookdeck",
+    "tags": ["saas", "webhooks", "backend"]
+  },
+  {
+    "id": "zod",
+    "name": "Zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "site": "https://zod.dev/",
+    "github": "https://github.com/colinhacks/zod",
+    "tags": ["typescript"]
+  },
+  {
+    "id": "tailwindcui",
+    "name": "Tailwind UI",
+    "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS. The perfect starting point for your next project.",
+    "site": "https://tailwindui.com/",
+    "related": "tailwindcss",
+    "tags": ["component library", "css", "saas"]
+  },
+  {
+    "id": "umami",
+    "name": "Umami",
+    "description": "Umami is an open source, privacy-focused alternative to Google Analytics",
+    "site": "https://umami.is/",
+    "github": "https://github.com/umami-software/umami",
+    "tags": ["analytics", "saas"]
+  },
+  {
+    "id": "elderjs",
+    "name": "Elder.js",
+    "description": "An SEO-First Svelte-Based Framework",
+    "site": "https://elderguide.com/tech/elderjs/",
+    "github": "https://github.com/elderjs/elderjs",
+    "tags": ["svelte", "framework"]
+  },
+  {
+    "id": "pocketbase",
+    "name": "PocketBase",
+    "description": "Open Source backend for your next SaaS and Mobile app in 1 file",
+    "site": "https://pocketbase.io/",
+    "github": "https://github.com/pocketbase/pocketbase",
+    "tags": ["go", "framework", "backend", "serverless"]
+  },
+  {
+    "id": "pockethost",
+    "name": "PocketHost",
+    "description": "Deploy PocketBase in 30 seconds",
+    "site": "https://pockethost.io/",
+    "github": "https://github.com/benalfree/pockethost",
+    "related": "pocketbase",
+    "tags": ["serverless", "backend", "saas"]
+  },
+  {
+    "id": "sveltekit",
+    "name": "SvelteKit",
+    "description": "web development, streamlined",
+    "site": "https://kit.svelte.dev/",
+    "github": "https://github.com/sveltejs/kit",
+    "related": "svelte",
+    "tags": ["svelte", "framework", "fullstack"]
+  }
+]
